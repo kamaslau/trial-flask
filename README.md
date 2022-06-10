@@ -1,6 +1,6 @@
-# trial-flusk
+# trial-flask
 
-Trial or micro-service unit of Python [Flusk framework](https://flask.palletsprojects.com/).
+Trial or micro-service unit of Python [flask framework](https://flask.palletsprojects.com/).
 
 # Start Up
 
@@ -9,7 +9,7 @@ Trial or micro-service unit of Python [Flusk framework](https://flask.palletspro
 python3 -m venv venv
 . venv/bin/activate
 
-# Install Flusk
+# Install flask
 pip install Flask
 
 # Run app.py
